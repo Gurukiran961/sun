@@ -1,7 +1,7 @@
 class Star{
     public static void main(String[] args) {
         
-        System.out.println("Hey there bae");
+        System.out.println("Hey there jackie");
 
     }
 }
